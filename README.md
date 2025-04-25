@@ -1,4 +1,7 @@
 # Paper-Data
-A compact quasi-zero stiffness metamaterial based on monolithic shells for vibration isolation
+Paper: A compact quasi-zero stiffness metamaterial based on monolithic shells for vibration isolation
 
-The static force-displacement curve from FE
+- The static force-displacement curve can be found in "static.txt"
+- Measured transmissibility data can be found in "transmissibility.txt"
+- All other data are included in the published article and its supplementary information files.
+
