@@ -1,4 +1,4 @@
-# simulation data for the case of h/L = 0.116, t/L = 0.027
+# simulation data for static force-displacement curve
 
 Displacement[mm] Force[N]
 0	0
